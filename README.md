@@ -39,16 +39,16 @@
 ---
 
 ## 🚀 Featured Projects
-* [cite_start]**Stranger Things: Save the Hawkins VR** - Fully immersive VR Game[cite: 36, 37].
-* [cite_start]**BIMBOX Letter AR** - Interactive AR experience for education[cite: 28].
-* [cite_start]**Player Master Arena** - Multi-player gaming platform optimization[cite: 31, 32].
+**Stranger Things: Save the Hawkins VR** - Fully immersive VR Game[cite: 36, 37].
+**BIMBOX Letter AR** - Interactive AR experience for education[cite: 28].
+**Player Master Arena** - Multi-player gaming platform optimization[cite: 31, 32].
 
 ---
 
 ## 🎓 Certifications
-* [cite_start]☁️ **AWS Academy Graduate** [cite: 44]
-* [cite_start]🤖 **Google Cloud Gen AI Study Jam** [cite: 43]
-* [cite_start]🚀 **Postman Student Expert** [cite: 45]
+☁️ **AWS Academy Graduate** [cite: 44]
+🤖 **Google Cloud Gen AI Study Jam** [cite: 43]
+🚀 **Postman Student Expert** [cite: 45]
 
 ---
 
