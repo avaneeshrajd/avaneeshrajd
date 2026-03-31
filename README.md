@@ -39,9 +39,9 @@
 ---
 
 ## 🚀 Featured Projects
-**Stranger Things: Save the Hawkins VR** - Fully immersive VR Game[cite: 36, 37].
-**BIMBOX Letter AR** - Interactive AR experience for education[cite: 28].
-**Player Master Arena** - Multi-player gaming platform optimization[cite: 31, 32].
+* [cite_start]**Stranger Things: Save the Hawkins VR** - Fully immersive VR Game[cite: 36, 37].
+* [cite_start]**BIMBOX Letter AR** - Interactive AR experience for education[cite: 28].
+* [cite_start]**Player Master Arena** - Multi-player gaming platform optimization[cite: 31, 32].
 
 ---
 
