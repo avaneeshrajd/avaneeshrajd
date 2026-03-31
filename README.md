@@ -1,11 +1,6 @@
 # Hi there, I'm Avaneesh Raj Dubey 👋 
 ### Unity Developer | VR & AR Specialist | BTech CSE Student
 
-<p align="left">
-<a href="https://linkedin.com/in/avaneesh-raj-dubey-33b4192a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:Ahemdabadavaneeshrajd@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
-</p>
-
 ---
 
 ## 🛠 Technical Stack
@@ -37,22 +32,3 @@
 ![JetBrains Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-* [cite_start]**Stranger Things: Save the Hawkins VR** - Fully immersive VR Game[cite: 36, 37].
-* [cite_start]**BIMBOX Letter AR** - Interactive AR experience for education[cite: 28].
-* [cite_start]**Player Master Arena** - Multi-player gaming platform optimization[cite: 31, 32].
-
----
-
-## 🎓 Certifications
-☁️ **AWS Academy Graduate** [cite: 44]
-🤖 **Google Cloud Gen AI Study Jam** [cite: 43]
-🚀 **Postman Student Expert** [cite: 45]
-
----
-
-## 📈 Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=avaneeshrajd&show_icons=true&theme=tokyonight" alt="avaneeshrajd" />
-</p>
